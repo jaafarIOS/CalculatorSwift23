@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA91B568-000F-40AF-8E19-AEA333532CA3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56E2AFBA-F662-449A-9E74-D3489CA407B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClaSwift23/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "displayView(width:height:caluclatorDisplay:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BCC53A2-7D89-434A-9D96-477E1646B906"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClaSwift23/CalculatorViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BCC53A2-7D89-434A-9D96-477E1646B906 - 2cd3b726f7ae8f6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClaSwift23.CalculatorViewModel.init() -&gt; ClaSwift23.CalculatorViewModel"
+                  moduleName = "ClaSwift23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Consultant/Desktop/ClaSwift23/ClaSwift23/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1829">
+               </Location>
+               <Location
+                  uuid = "3BCC53A2-7D89-434A-9D96-477E1646B906 - 6d064dce7273209f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; () in ClaSwift23.CalculatorViewModel.init() -&gt; ClaSwift23.CalculatorViewModel"
+                  moduleName = "ClaSwift23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Consultant/Desktop/ClaSwift23/ClaSwift23/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
